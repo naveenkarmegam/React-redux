@@ -1,8 +1,22 @@
-# React + Vite
+# Shop in Style
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Shop in Style website! This is a simple e-commerce homepage template built using React and Bootstrap.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive design for a seamless experience across devices.
+- Interactive product cards with the option to add or remove items from the cart.
+- Dynamic header showcasing different phrases at regular intervals.
+- Modal for displaying added cart items with the total price.
+
+## Installation
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/shop-in-style.git
